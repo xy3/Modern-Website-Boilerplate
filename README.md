@@ -17,7 +17,7 @@ An up to date boilerplate to suit the future of web design. For Avames, by Avame
 
 Clone the repository
 ```bash
-git clone https://github.com/xy3/Modern-Website-Boilerplate.git`
+git clone https://github.com/xy3/Modern-Website-Boilerplate.git
 ```
 
 cd into it and update with composer
