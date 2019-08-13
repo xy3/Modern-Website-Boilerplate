@@ -16,10 +16,14 @@ An up to date boilerplate to suit the future of web design. For Avames, by Avame
 ## To install:
 
 Clone the repository
-`git clone https://github.com/xy3/Modern-Website-Boilerplate.git`
+```bash
+git clone https://github.com/xy3/Modern-Website-Boilerplate.git`
+```
 
 cd into it and update with composer
-`cd Modern-Website-Boilerplate`
-`composer update`
+```bash
+cd Modern-Website-Boilerplate
+composer update
+```
 
 You're done.
